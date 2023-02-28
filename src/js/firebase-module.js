@@ -11,7 +11,6 @@
 
 // import { getDatabase, ref, set, update } from 'firebase/database';
 
-
 // import { refs } from './refs-firebase';
 
 // //import closeModal from './'; ///   Закриття Модалки!!
@@ -30,9 +29,6 @@
 //     'https://team-project-js-2-default-rtdb.europe-west1.firebasedatabase.app/',
 // };
 
-
-
-
 // // Initialize Firebase
 // const app = initializeApp(firebaseConfig);
 // const auth = getAuth();
@@ -48,8 +44,6 @@
 // // function noShowModal() {
 // // refs.modal.classList.toggle('visible');
 // // };
-  
-
 
 // refsFirebase.registrBtn.addEventListener('click', evt => {
 //   const emailRegistr = document.querySelector('.emailRegistr').value;

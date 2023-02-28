@@ -7,8 +7,6 @@
   position: absolute;
   top: 10px;
   right: 15px;
-  // margin-left: auto;
-  // margin-right: 5px;
 
   @media screen and (min-width: 767px) {
     right: 45px;
@@ -34,10 +32,6 @@
   content: '';
   position: absolute;
   left: 0;
-  //   width: 42px;
-  //   height: 22px;
-  //   width: 36px;
-  //   height: 23px;
   left: 3px;
   top: -1px;
   width: 21px;
@@ -91,7 +85,6 @@
 }
 
 .theme-switch__icon {
-  //   color: #ffffff;
   height: 15px;
   width: 15px;
   margin-left: -7px;
@@ -135,13 +128,7 @@ body.dark {
 
   .film-title__value,
   .film-title__vote_average,
-  .film-title__desc-film
-
-//   .film-title__vote_count
-//   .film-title,
-//   .about-title,
-//   .text-about-movie {
-  {
+  .film-title__desc-film {
     color: var(--footer-background-color);
   }
 
@@ -153,10 +140,3 @@ body.dark {
     background-color: var(--card-dark-color);
   }
 }
-
-// --footer-background-color: #f7f7f7;
-//   --footer-text-color: #545454;
-//   --header-background-color: rgba(0, 0, 0, 0.56);
-//   --background-color-dark: rgb(21, 19, 19);
-//   --footer-dark-theme-color: rgb(9, 7, 7);
-//   --card-dark-color: rgb(40, 36, 36);

@@ -49,10 +49,7 @@
   color: var(--text-color-white);
   letter-spacing: 0.2em;
 }
-// .email {
-// }
-// .emailRegistr {
-// }
+
 .input:focus ~ .pass-email-span,
 .input:valid ~ .pass-email-span {
   color: var(--text-color-white);
@@ -95,9 +92,6 @@
   transition: 250ms;
   resize: none;
 }
-
-// .passRegistr {
-// }
 
 .registr-btn,
 .login-btn {
@@ -142,13 +136,6 @@
     transition: 250ms ease-in-out;
   }
 }
-// .animate__animated {
-// }
-// .animate__pulse {
-// }
-
-// .login {
-// }
 
 .login-form {
   display: flex;
@@ -170,13 +157,6 @@
   left: 50%;
   transition: 250ms ease-in-out;
 }
-// .emailLogin {
-// }
-// .passLogin {
-// }
-
-// .registr {
-// }
 
 .loginedModal {
   position: relative;

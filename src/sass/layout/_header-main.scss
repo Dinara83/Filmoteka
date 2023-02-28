@@ -102,26 +102,6 @@
   margin-right: auto;
 }
 
-// @media screen and (min-width: 320px) {
-//   .container {
-//     width: 320px;
-//     padding-left: 32px;
-//     padding-right: 32px;
-//   }
-
-//   @media screen and (min-width: 768px) {
-//     .container {
-//       width: 768px;
-//     }
-//   }
-// }
-
-// @media screen and (min-width: 1200px) {
-//   .container {
-//     width: 1200px;
-//   }
-// }
-
 .header__navigation__svg {
   margin-right: 10px;
 }
@@ -194,12 +174,6 @@
   &:hover {
     border-bottom: 0.5px solid #ff001b;
   }
-  //@include tablet {
-  // width: 336px;
-  //}
-  // @include desktop {
-  //  width: 394px;
-  // }
 }
 
 .header__search-btn {
@@ -234,7 +208,4 @@
   justify-content: center;
   color: #ff001b;
   margin-top: 16px;
-  //@include tablet {
-  // margin-top: 20px;
-  //}
 }

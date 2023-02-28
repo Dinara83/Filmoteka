@@ -14,7 +14,6 @@ body {
 
   font-family: 'Roboto', sans-serif;
   font-size: 12px;
-  //   letter-spacing: 0.04em;
 
   &.no-scroll {
     overflow: hidden;
@@ -35,7 +34,6 @@ ul {
 img {
   display: block;
   max-width: 100%;
-  /* height: auto; */
 }
 
 button {
@@ -52,14 +50,10 @@ button {
 .link {
   text-decoration: none;
   color: inherit;
-  //   cursor: url('../images/cursor.png'), pointer;
 }
 
 ul,
 ol {
-  //   padding-left: 0;
-  //   margin-top: 0;
-  //   margin-bottom: 0;
   list-style: none;
 }
 

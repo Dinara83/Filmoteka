@@ -7,7 +7,7 @@ import {
   QUEUED_FILM,
   loadFromLocalStorage,
   saveToLocalStorage,
-  checkLocalStorageMovies,
+  //   checkLocalStorageMovies,
   checkWatchedLocalStorageMovies,
   checkQueuedLocalStorageMovies,
 } from './local-storage';

@@ -95,7 +95,7 @@ export {
   QUEUED_FILM,
   loadFromLocalStorage,
   saveToLocalStorage,
-  checkLocalStorageMovies,
+  //   checkLocalStorageMovies,
   checkWatchedLocalStorageMovies,
   checkQueuedLocalStorageMovies,
 };
