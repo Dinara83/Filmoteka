@@ -18,7 +18,7 @@ import './js/search-movies';
 import './sass/index.scss';
 
 import 'basiclightbox/dist/basicLightbox.min.css';
-import { onFormSubmit } from './js/search-movies';
+// import { onFormSubmit } from './js/search-movies';
 import { btnUp } from './js/button-up';
 import './js/firebase-module';
 btnUp.addEventListener();
